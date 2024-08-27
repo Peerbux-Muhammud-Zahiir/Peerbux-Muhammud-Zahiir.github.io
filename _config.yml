@@ -18,7 +18,7 @@ social:
   whatsapp: "https://wa.me/your-whatsapp-number"  # Replace with your WhatsApp number
 
 # Theme settings
-theme: "minimal"  # Choose a theme you like, you can also try other themes like "jekyll-theme-cayman", "jekyll-theme-midnight", etc.
+theme: "hacker"
 
 # Navigation links
 nav_links:
