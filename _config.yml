@@ -32,17 +32,16 @@ nav_links:
 projects:
   - title: "Azure Cloud Challenge 2024"
     description: "Bagged 1st prize for the first time. Successfully created and deployed virtual networks, virtual machines, SQL server and SQL database, website using GitHub and integrated statistics using Azure Power BI."
-    link: "https://github.com/Peerbux-Muhammud-Zahiir/cloud_challenge"  # Replace with the actual project page URL
-
+    link: "https://github.com/Peerbux-Muhammud-Zahiir/cloud_challenge" 
   - title: "Bio-Tech Hackathon"
     description: "Led the Open Source Avengers to create NutriCare, an AI-driven mobile app using Flutter, Dart, Firebase, TensorFlow Lite, Nutritionix API, and Gemini API to recommend diet plans for all demographics in Mauritius. Trained a model on Teachable Machine using the Kaggle food dataset."
-    link: "https://github.com/Peerbux-Muhammud-Zahiir/NutriCare_app"  # Replace with the actual project page URL
-    images_link: "https://example.com/hackathon-images"  # Replace with the actual URL for images
+    link: "https://github.com/Peerbux-Muhammud-Zahiir/NutriCare_app"  
+    images_link: "https://drive.google.com/drive/folders/1-XbjBCAY97GROMaVo4vlgykqoA9EF5ru"  
 
   - title: "Game of Code CTF"
     description: "My team, the Binary Coders, implemented a basic online learning platform to introduce Python language to children using HTML5, CSS3, and JS."
-    link: "https://github.com/JoottunAtish/Game-of-code-CTF"  # Replace with the actual project page URL
-    images_link: "https://example.com/game-of-code-images"  # Replace with the actual URL for images
+    link: "https://github.com/JoottunAtish/Game-of-code-CTF"  
+    images_link: "https://drive.google.com/drive/folders/1ouvE1ZtAVX81vpPRs7Yjs-tx2YbOVlob"  
 
 # Plugins
 plugins:
