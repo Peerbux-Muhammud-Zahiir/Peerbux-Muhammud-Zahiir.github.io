@@ -7,14 +7,20 @@ url: "https://github.com/Peerbux-Muhammud-Zahiir"
 author:
   name: "Zahiir"
   email: "zahiir.cs@gmail.com" 
+  github: "https://github.com/Peerbux-Muhammud-Zahiir"  
   linkedin: "https://www.linkedin.com/in/zahiir-peerbux-221621310/"  
-  whatsapp: "https://wa.me/+230 5910 0627" 
+  instagram: "https://www.instagram.com/zahiirpeerbux?igsh=MWh5Z2dhdWRkcnFxaw=="
+  facebook: "https://www.facebook.com/profile.php?id=61564407916238&mibextid=ZbWKwL"
+  x: "https://x.com/ZahiirPeerbux?t=WQgqLgG7cwSuK76sQc9Beg&s=09"
+  
 
 # Social links
 social:
   github: "https://github.com/Peerbux-Muhammud-Zahiir"  
   linkedin: "https://www.linkedin.com/in/zahiir-peerbux-221621310/"  
-  whatsapp: "https://wa.me/+230 5910 0627" 
+  instagram: "https://www.instagram.com/zahiirpeerbux?igsh=MWh5Z2dhdWRkcnFxaw=="
+  facebook: "https://www.facebook.com/profile.php?id=61564407916238&mibextid=ZbWKwL"
+  x: "https://x.com/ZahiirPeerbux?t=WQgqLgG7cwSuK76sQc9Beg&s=09"
 
 # Theme settings
 theme: jekyll-theme-hacker
@@ -55,7 +61,7 @@ seo:
   description: "Explore my projects and journey as a CS student, including achievements in AI, web development, and more."
   keywords: "CS Student, Pen Testing, Web Development, AI, GitHub Pages"
   twitter:
-    username: "ZahiirPeerbux"  # Replace with your Twitter handle if you have one
+    username: "ZahiirPeerbux"  
 
 # Optional: Footer settings
 footer:
