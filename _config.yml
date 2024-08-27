@@ -26,7 +26,7 @@ social:
   x: "https://x.com/ZahiirPeerbux?t=WQgqLgG7cwSuK76sQc9Beg&s=09"
 
 # Theme settings
-theme: jekyll-theme-hacker
+theme: minima
 
 # Navigation links
 nav_links:
