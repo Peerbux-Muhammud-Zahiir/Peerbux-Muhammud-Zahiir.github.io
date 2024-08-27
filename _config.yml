@@ -25,8 +25,11 @@ social:
   facebook: "https://www.facebook.com/profile.php?id=61564407916238&mibextid=ZbWKwL"
   x: "https://x.com/ZahiirPeerbux?t=WQgqLgG7cwSuK76sQc9Beg&s=09"
 
-# Theme settings
-theme: minima
+
+
+remote_theme: pages-themes/architect@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
 
 # Navigation links
 nav_links:
