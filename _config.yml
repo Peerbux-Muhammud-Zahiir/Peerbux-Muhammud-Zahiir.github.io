@@ -3,6 +3,8 @@ title: "Zahiir's Portfolio"
 description: "A glimpse into my journey as a CS student and my projects in pen testing, web development, AI, and more!"
 baseurl: "/"
 url: "https://github.com/Peerbux-Muhammud-Zahiir"  
+favicon: "https://www.google.com/search?client=tablet-android-samsung-nf-rev1&sca_esv=b9a0ab85e5fabe6e&sca_upv=1&sxsrf=ADLYWIIZZxUZqptRxhC89rzkorWqRGa1Jg:1724790424397&q=logo+cool+green+hacker+favicon+png&uds=ADvngMiKD3QT9u-CEMfEC4MkdWey3eo-zzj1g3gTuvNqpaEl4qJJLRLrI7l44MktsLoqpUpL_YIAAJKzEMhUxLL_tTTe_aSlzXFxkCQ1gshq1agiiTBlDfLvP4PrXZjON9akmRB9oCKgiMRYUF7A37rPFmlYy5flvw&udm=2&sa=X&ved=2ahUKEwj4k7uEgZaIAxUQnf0HHdLjE_QQxKsJegQIEhAB&ictx=0&biw=854&bih=1366&dpr=1.88#vhid=Yy7aAM9XYeIWmM&vssid=mosaic"
+
 # Author settings
 author:
   name: "Zahiir"
@@ -13,6 +15,7 @@ author:
   facebook: "https://www.facebook.com/profile.php?id=61564407916238&mibextid=ZbWKwL"
   x: "https://x.com/ZahiirPeerbux?t=WQgqLgG7cwSuK76sQc9Beg&s=09"
   
+
 
 # Social links
 social:
