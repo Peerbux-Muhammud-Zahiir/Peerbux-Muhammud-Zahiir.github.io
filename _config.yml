@@ -1,0 +1,64 @@
+# Site settings
+title: "Zahiir's Portfolio"
+description: "A glimpse into my journey as a CS student and my projects in pen testing, web development, AI, and more!"
+baseurl: "/"
+url: "https://your-github-username.github.io/your-repo-name"  # Replace with your actual GitHub repository URL
+
+# Author settings
+author:
+  name: "Zahiir"
+  email: "your-email@example.com"  # Replace with your email
+  linkedin: "https://www.linkedin.com/in/your-linkedin-username"  # Replace with your LinkedIn profile URL
+  whatsapp: "https://wa.me/your-whatsapp-number"  # Replace with your WhatsApp number
+
+# Social links (optional)
+social:
+  github: "https://github.com/your-github-username"  # Replace with your GitHub profile URL
+  linkedin: "https://www.linkedin.com/in/your-linkedin-username"  # Replace with your LinkedIn profile URL
+  whatsapp: "https://wa.me/your-whatsapp-number"  # Replace with your WhatsApp number
+
+# Theme settings
+theme: "minimal"  # Choose a theme you like, you can also try other themes like "jekyll-theme-cayman", "jekyll-theme-midnight", etc.
+
+# Navigation links
+nav_links:
+  - title: "About Me"
+    url: "/about"
+  - title: "Coding"
+    url: "/coding"
+  - title: "Projects"
+    url: "/projects"
+
+# Projects
+projects:
+  - title: "Azure Cloud Challenge 2024"
+    description: "Bagged 1st prize for the first time. Successfully created and deployed virtual networks, virtual machines, SQL server and SQL database, website using GitHub and integrated statistics using Azure Power BI."
+    link: "https://github.com/your-github-username/azure-cloud-challenge"  # Replace with the actual project page URL
+
+  - title: "Bio-Tech Hackathon"
+    description: "Led the Open Source Avengers to create NutriCare, an AI-driven mobile app using Flutter, Dart, Firebase, TensorFlow Lite, Nutritionix API, and Gemini API to recommend diet plans for all demographics in Mauritius. Trained a model on Teachable Machine using the Kaggle food dataset."
+    link: "https://github.com/your-github-username/nutricare"  # Replace with the actual project page URL
+    images_link: "https://example.com/hackathon-images"  # Replace with the actual URL for images
+
+  - title: "Game of Code CTF"
+    description: "My team, the Binary Coders, implemented a basic online learning platform to introduce Python language to children using HTML5, CSS3, and JS."
+    link: "https://github.com/your-github-username/game-of-code-ctf"  # Replace with the actual project page URL
+    images_link: "https://example.com/game-of-code-images"  # Replace with the actual URL for images
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Optional: SEO settings
+seo:
+  title: "Zahiir's Portfolio"
+  description: "Explore my projects and journey as a CS student, including achievements in AI, web development, and more."
+  keywords: "CS Student, Pen Testing, Web Development, AI, GitHub Pages"
+  twitter:
+    username: "your-twitter-handle"  # Replace with your Twitter handle if you have one
+
+# Optional: Footer settings
+footer:
+  copyright: "© 2024 Zahiir. All rights reserved."
